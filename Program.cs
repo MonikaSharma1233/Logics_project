@@ -12,7 +12,7 @@ public class Program
                 Console.WriteLine("\n");
             Q4_Harmonic_No.Harmonicno();
                 Console.WriteLine("\n");
-            Q5_Prime_Factor.primefactor();
+            Q5_Prime_Factors.primefactor();
                 Console.WriteLine("\n");
         //Day7---Practice-2
             Q6_Quotient_Reminder.Quotient_and_Reminder_check();
